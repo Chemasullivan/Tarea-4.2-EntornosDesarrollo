@@ -10,7 +10,7 @@ public class JoseMariaLozanoLimaGIT {
         
         int valor2 = 6;
         ClaseNueva valornuevo = new ClaseNueva ();
-        valornuevo.setCambio(3);
+        valornuevo.setCambio(4);
         int operacion = valornuevo.getCambio () + valor2;
         System.out.println(operacion);
         
